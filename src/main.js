@@ -1,2 +1,5 @@
 require("./main.css");
-alert(1);
+require("./index.html");
+const a = () => {
+	console.log("es6");
+}
